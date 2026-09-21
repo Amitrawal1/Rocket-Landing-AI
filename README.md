@@ -10,7 +10,7 @@ Nobody tells the AI how to land. It crashes thousands of times in a physics simu
   <img src="./rocket.png" width="400">
 </p>
 ---
-<video src="./assets/rocket-demo.mp4" controls width="700"></video>
+🎥 [Watch Rocket Simulation](./rocket-demo.mp4)
 
 ---
 
