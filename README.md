@@ -4,6 +4,14 @@ An AI that teaches itself to land a reusable rocket booster on a landing pad, mu
 
 Nobody tells the AI how to land. It crashes thousands of times in a physics simulation, and from each attempt it slowly learns what works: when to fire the engine, how to steer toward the pad, and when to put the legs down.
 
+## 🚀 Rocket
+
+<p align="center">
+  <img src="./rocket.png" width="400">
+</p>
+---
+<video src="./assets/rocket-demo.mp4" controls width="700"></video>
+
 ---
 
 ## Results
